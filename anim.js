@@ -10,7 +10,7 @@ var frm;
 var img = new Image();
 img.src = "dvd.png";
 var imageObj = new Image();
-imageObj.src = "lel.png";
+imageObj.src = 'lel.png';
 ctx.drawImage(imageObj, 0, 0);
 
 var clear = function() {
